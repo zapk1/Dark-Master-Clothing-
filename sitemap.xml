@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://darkmasterclothing.beelzeapps.co.za/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://media.base44.com/images/public/user_689f8b56ad1429582e28fa82/199981961_image_aigc_aaf451d0-6e50-422e-9e64-ce81cb32a493.png</image:loc>
+      <image:title>Dark Master Clothing — Luxury Rich T-Shirts</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.base44.com/images/public/user_689f8b56ad1429582e28fa82/4af807782_image_aigc_25c6c514-0b27-46b4-b534-16cf7357055c.png</image:loc>
+      <image:title>Dark Master Clothing Banner 2</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.base44.com/images/public/user_689f8b56ad1429582e28fa82/51ebbdf0e_image_aigc_d0967ca5-1b47-4fb0-bef4-1e4790c32b68.png</image:loc>
+      <image:title>Dark Master Clothing Banner 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://media.base44.com/images/public/user_689f8b56ad1429582e28fa82/054f119af_image_aigc_2c270af2-bfa4-43d9-bff8-15b20f2eb4e7.png</image:loc>
+      <image:title>Dark Master Clothing Banner 4</image:title>
+    </image:image>
+  </url>
+
+</urlset>.
