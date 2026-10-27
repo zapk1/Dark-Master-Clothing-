@@ -1,0 +1,14 @@
+# Dark Master Clothing — robots.txt
+User-agent: *
+Allow: /
+Disallow: /*?pf=return
+Disallow: /*?pf=cancel
+Disallow: /*?m_payment_id=
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Sitemap
+Sitemap: https://darkmasterclothing.beelzeapps.co.za/sitemap.xml
+The Disallow lines stop Google indexing the PayFast return/cancel URLs you generate at checkout — those would otherwise create junk pages in search results.
